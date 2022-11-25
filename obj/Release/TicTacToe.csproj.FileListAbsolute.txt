@@ -1,0 +1,9 @@
+D:\HE-ARC\Dev\MorpionsIA\bin\Release\TicTacToe.exe.config
+D:\HE-ARC\Dev\MorpionsIA\bin\Release\TicTacToe.exe
+D:\HE-ARC\Dev\MorpionsIA\bin\Release\TicTacToe.pdb
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.Form1.resources
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.Properties.Resources.resources
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.csproj.GenerateResource.cache
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.exe
+D:\HE-ARC\Dev\MorpionsIA\obj\Release\TicTacToe.pdb
